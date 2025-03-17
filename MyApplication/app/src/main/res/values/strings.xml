@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="tic">Tic</string>
+    <string name="toe">Toe</string>
+    <string name="tac">Tac</string>
+    <string name="play">Play</string>
+    <string name="reset">Reset</string>
+    <string name="o_turn_text">O\'s turn</string>
+    <string name="x_text">X</string>
+    <string name="x_turn_text">X\'s turn</string>
+    <string name="who_won_text">symbol won 🥇</string>
+    <string name="p1">Play</string>
+    <string name="reset1">Reset</string>
+</resources>
